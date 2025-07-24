@@ -18,10 +18,6 @@ This is a responsive web app that shows real-time weather information based on y
 - Google Gemini API (via REST)
 - Responsive card layout and chatbot modal
 
-## 🔒 Security
-
-> ⚠️ API keys are stored in a separate `config.js` file which is included in `.gitignore`.  
-> This ensures sensitive keys are **never exposed** on GitHub.
 
 To run this app locally:
 1. Clone the repo
